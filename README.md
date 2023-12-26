@@ -14,11 +14,14 @@ keywords: Ultralytics, YOLOv8, Advanced Data Visualization, Heatmap Technology, 
 - **Ease of Use:** YOLOv8 is known for its user-friendly design, making it accessible for our team to implement and maintain. This ease of use streamlines the development and deployment processes, allowing us to focus on delivering valuable insights rather than grappling with complex technicalities.
 - **Versatility:** YOLOv8 is a versatile model that excels in various scenarios, including object detection and tracking. This adaptability is crucial for our retail-focused project, where we need a robust and flexible solution to capture diverse customer interactions within UNIQLO stores.
 - **Community Support:** YOLOv8 benefits from a robust community and continuous development. This ensures that our implementation remains up-to-date with the latest advancements, improvements, and security patches, providing a reliable foundation for our project's success.
+## Diagram Solution
+![Diagram Solution](https://github.com/hungnguyen08112003/AI-PJ/assets/134583410/d0448633-925f-4c1d-8364-ca65b4078526)
+
 ## Real World Applications
 
 | Detect                                                                                                 | Heatmap                                                                                                |
 |:------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------:|
-| ![Ultralytics YOLOv8 Transportation Heatmap](https://github.com/hungnguyen08112003/AI-PJ/assets/134583410/4183bb95-e01b-4b68-a5e6-396c76872623){:width="640px" height="360px"} | ![Ultralytics YOLOv8 Retail Heatmap](https://github.com/hungnguyen08112003/AI-PJ/assets/134583410/445fefc3-76b2-45ff-980a-bc54209a68be){:width="640px" height="360px"} |
+| ![Ultralytics YOLOv8 Transportation Heatmap](https://github.com/hungnguyen08112003/AI-PJ/assets/134583410/445fefc3-76b2-45ff-980a-bc54209a68be) | ![Ultralytics YOLOv8 Retail Heatmap](https://github.com/hungnguyen08112003/AI-PJ/assets/134583410/4183bb95-e01b-4b68-a5e6-396c76872623)|
 | Ultralytics YOLOv8 Detect Human                                                                       | Ultralytics YOLOv8 Retail Heatmap                                                                      |
 ## System Overview
 
